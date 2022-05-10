@@ -8,9 +8,9 @@
 -  I studied Cusine Specialty at ASPIC 👨🏽‍🍳
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!--### ✨ Visitors -->
+<!--### ✨ Visitors
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniomd-fi" alt="antoniomd-fi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniomd-fi" alt="antoniomd-fi" /> </p> -->
 
 ### 📊 Profile stats
 
