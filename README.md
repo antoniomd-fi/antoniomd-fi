@@ -12,9 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniomd-fi" alt="antoniomd-fi" /> </p> -->
 
+
+
 ### 📊 Profile stats
 
-[![antoniomd-fi's github stats](https://github-readme-stats.vercel.app/api?username=antoniomd-fi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/antoniomd-fi/github-readme-stats)
+![antoniomd-fi's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomd-fi&show_icons=true&theme=dark)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
