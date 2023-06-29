@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Antonio Martin 👨‍💻 </h1>
 
-<h3 align="center">  Software Developer | Chef | Musician </h3> <br>
+<h3 align="center">  Software Developer | Chef </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
