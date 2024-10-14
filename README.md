@@ -1,11 +1,13 @@
 <h1 align="center"> Hello, I'm Antonio Martin 👨‍💻 </h1>
 
-<h3 align="center">  Software Developer | Chef </h3> <br>
+<h3 align="center">  Software Engineer </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  I studied Computer Engineering at FI UNAM 💻
--  I studied a Cusine Specialty at ASPIC 👨🏽‍🍳
+Software engineer with expertise in software development and data management. Experienced in creating custom software
+ solutions and optimizing data processes across backend, frontend, and infrastructure. Demonstrated leadership and team
+ management skills acquired from years of experience in the gastronomic industry, enabling effective collaboration and
+ innovative problem-solving across technical teams and client-facing projects
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--### ✨ Visitors
